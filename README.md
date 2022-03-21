@@ -19,8 +19,7 @@ In this workshop, a document is created in which specific LaTeX topics (accordin
 The LaTeX Basics - Lunch Session Workshop is intended for students who have some (little) experience with LaTeX.
 
 # LaTeX Tutorials
-Below are some links to LaTeX tutorials I recommend.
-
+Below some links to LaTeX tutorials I recommend.
 - https://www.youtube.com/watch?v=y8y_KIs9JLs (LaTeX mit Overleaf)
 - https://www.youtube.com/watch?v=Jp0lPj2-DQA (LaTeX mit Overleaf)
 - https://www.youtube.com/watch?v=NwnYHoNtfJ0&list=PL-p5XmQHB_JSQvW8_mhBdcwEyxdVX0c1T 
@@ -35,6 +34,5 @@ Below are some links to LaTeX tutorials I recommend.
 - https://sourceforge.net/projects/texworks.mirror/
 # Center of Math
 - https://www.centerofmath.org/
-
 ## So You Want To Learn LaTeX
 - https://www.youtube.com/watch?v=xYzg-gfx6dQ&list=PLgKTLlHQn950rpO2U_y1gun1LVUlKCHa6 
