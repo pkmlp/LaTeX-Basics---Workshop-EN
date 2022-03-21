@@ -36,5 +36,5 @@ Below are some links to LaTeX tutorials I recommend.
 # Center of Math
 - https://www.centerofmath.org/
 
-# So You Want To Learn LaTeX
+## So You Want To Learn LaTeX
 - https://www.youtube.com/watch?v=xYzg-gfx6dQ&list=PLgKTLlHQn950rpO2U_y1gun1LVUlKCHa6 
