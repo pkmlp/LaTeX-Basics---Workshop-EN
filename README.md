@@ -2,12 +2,21 @@
 This repository contains the sample files used in the LaTeX Basics - Lunch Session Workshop (90 minutes).
 
 ## Brief description of the LaTeX-Basics---Workshop (EN) 
-Usually, texts are created with a word processing package (OpenOffice, LibreOffice or Microsoft Office). However, for professional and/or very large documents (especially in the mathematical-technical area) the possibilities of such standard Office packages are not sufficient. LaTeX is a text typesetting system that meets these requirements. Those who are used to a word processor will find the introduction to LaTeX very hard to get used to. Creating documents with LaTeX is closer to programming with a page description language than to entering text with standard WYSIWYG office packages. In this basic session, a first overview of LaTeX, the features of LaTeX and the required components will be given. A first small LaTeX document will be created with the online LaTeX editor Overleaf (the easy to use, online, collaborative LaTeX editor).
+In this workshop, a document is created in which specific LaTeX topics (according to contents below) can be practiced. The document will be created/edited with the self-installed LaTeX environment on the own laptop or with the online editor Overleaf. The workshop is structured in such a way that individual topics (according to contents below) can be worked on independently with the help of a manual. Thus, participants have the opportunity to create a LaTeX template tailored to their needs.
 
 ## Contents of the LaTeX-Basics---Workshop (EN)
+- Separation of content and structure
+- Capturing text in LaTeX
+- Mathematical formulas
+- Footnotes
+- Pictures/graphs and list of figures
+- Abbreviations and list of abbreviations
+- Keywords and index
+- Citing sources and bibliography
+- Tables and List of Tables
 
 ## Target audience of the LaTeX-Basics---Workshop (EN) 
-The LaTeX Basics - Lunch Session is intended for students who have no previous experience with LaTeX. Students who have already created a document with LaTeX will not learn anything new. We recommend that they attend the LaTeX-Basics - Workshop, which can now also be attended without completing the Lunch Session.
+The LaTeX Basics - Lunch Session Workshop is intended for students who have some (little) experience with LaTeX.
 
 # LaTeX Tutorials
 Below are some links to LaTeX tutorials I recommend.
