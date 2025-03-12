@@ -20,12 +20,11 @@ The LaTeX Basics - Lunch Session Workshop is intended for students who have some
 
 # LaTeX Tutorials
 
-## I highly recommend watching the video video tutorial:
-
+### I highly recommend watching this video tutorial:
 How I use AI in LaTeX -- my favorite workflow with Overleaf & Writefull
 - https://www.youtube.com/watch?v=T_dAb3vTx4U
 
-Below some links to LaTeX tutorials I recommend.
+Below some links to LaTeX tutorials I also recommend.
 - https://www.youtube.com/watch?v=y8y_KIs9JLs (LaTeX mit Overleaf)
 - https://www.youtube.com/watch?v=Jp0lPj2-DQA (LaTeX mit Overleaf)
 - https://www.youtube.com/watch?v=NwnYHoNtfJ0&list=PL-p5XmQHB_JSQvW8_mhBdcwEyxdVX0c1T 
