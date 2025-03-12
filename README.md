@@ -19,6 +19,10 @@ In this workshop, a document is created in which specific LaTeX topics (accordin
 The LaTeX Basics - Lunch Session Workshop is intended for students who have some (little) experience with LaTeX.
 
 # LaTeX Tutorials
+
+I highly recommend watching the video video tutorial 'How I use AI in LaTeX -- my favorite workflow with Overleaf & Writefull'
+- https://www.youtube.com/watch?v=T_dAb3vTx4U
+
 Below some links to LaTeX tutorials I recommend.
 - https://www.youtube.com/watch?v=y8y_KIs9JLs (LaTeX mit Overleaf)
 - https://www.youtube.com/watch?v=Jp0lPj2-DQA (LaTeX mit Overleaf)
